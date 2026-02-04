@@ -26,6 +26,7 @@ Se comparan distintos modelos de clasificación y se evalúan utilizando múltip
   - 0: Transacción legítima  
   - 1: Transacción fraudulenta  
 
+
 ### Variables principales
 - `V1` – `V28`: Variables numéricas anonimizadas mediante PCA.
 - `Time`: Segundos desde la primera transacción registrada.
